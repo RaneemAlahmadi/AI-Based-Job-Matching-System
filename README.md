@@ -1,26 +1,56 @@
 # AI-Based Job Matching System
 
-## Project Overview
+## Overview
 
-The AI-Based Job Matching System is designed to help job seekers find suitable job opportunities using artificial intelligence.
+An AI-based recruitment system designed to improve job matching between job seekers and employers.
 
-The system aims to analyze candidate information and job requirements to provide relevant job recommendations.
+The system aims to provide personalized job recommendations, estimate acceptance probability, and rank candidates based on job requirements.
+
+## Project Objectives
+
+* Improve job recommendations using user skills and experience.
+* Estimate candidate acceptance probability.
+* Rank applicants based on compatibility.
+* Improve recruitment efficiency.
 
 ## Main Features
 
-* AI-based job recommendations.
-* Prediction of job acceptance probability.
-* Candidate ranking based on job requirements.
-* Matching candidates with suitable job opportunities.
+* User registration and login
+* Profile management
+* CV upload
+* AI-based job recommendations
+* Acceptance probability prediction
+* Candidate ranking
+* Job posting and applicant management
+* Notifications
+
+## System Design
+
+The project includes:
+
+* Use Case Diagram
+* Class Diagram
+* Sequence Diagrams
+* State Diagram
+* System Architecture
 
 ## Project Documentation
 
-This repository contains the project report, system diagrams, architecture documentation, and testing materials.
+See the Documentation folder for the full project report.
 
-## Team
+## Team Members
 
-This project was developed as part of the CS289 course at Taibah University.
+* Raneem Alahmadi — GitHub: @RaneemAlahmadi
+* Dorar Alsinani — GitHub: @DorarSi1
 
 ## Course
 
 CS289
+
+## University
+
+Taibah University
+
+## Project Date
+
+May 2026
