@@ -1,1 +1,0 @@
-UML diagrams for the AI-Based Job Matching System.
