@@ -1,0 +1,1 @@
+System architecture documentation for the AI-Based Job Matching System.
